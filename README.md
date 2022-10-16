@@ -22,7 +22,7 @@ FOLDER "alpro_fungsi"
 
 ### 1. Program Menghitung Volume dan Luas tabung (2205551044_erwan_tabung.c)
 
-### 2. Program Konversi Suhu Celcius (2205551044_erwan_fungsi_konversi_suhu_celcius.c) :
+### 2. Program Konversi Suhu Celcius (2205551044_erwan_fkonversicelcius.c) :
 
 2.1. Fahrenhit
 
